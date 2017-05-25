@@ -30,9 +30,7 @@ header  .container{
 }
 
 .logo{
-    background: url("../images/logo.png") no-repeat;
-    width: 31px;
-    height: 20px;
+    color: #ffffff;
 }
 
 .region select{
@@ -346,10 +344,4 @@ header  .container{
     color: #99a1b3;
     font-size: 12px;
     display: flex;
-}
-
-.logo-2{
-    background: url("../images/logo2.png") no-repeat;
-    width: 31px;
-    height: 20px;
 }
